@@ -71,7 +71,7 @@ Contains the cleaned customer-level dataset used for analysis.
 - ChurnFlag (0 = No, 1 = Yes)
 
 📷 *Preview:*  
-![Raw Data](images/raw_data.png)
+![Raw Data](images/raw_data_sheet.png)
 
 ---
 
@@ -84,7 +84,7 @@ Provides high-level churn KPIs calculated using Excel formulas.
 - Churn Rate (%)
 
 📷 *Preview:*  
-![Metrics](images/metrics.png)
+![Metrics](images/metrics_sheet.png)
 
 ---
 
@@ -96,7 +96,7 @@ Pivot table analysis showing churn behavior across customer tenure segments.
 - Long-term customers have lower churn rates
 
 📷 *Preview:*  
-![Tenure Segmentation](images/tenure_segmentation.png)
+![Tenure Segmentation](images/tenure_pivot.png)
 
 ---
 
@@ -108,7 +108,7 @@ Analyzes churn based on contract type.
 - Long-term contracts improve retention
 
 📷 *Preview:*  
-![Contract Analysis](images/contract_analysis.png)
+![Contract Analysis](images/contract_pivot.png)
 
 ---
 
@@ -120,7 +120,7 @@ Evaluates churn patterns across payment methods.
 - Automatic payment methods show better retention
 
 📷 *Preview:*  
-![Payment Analysis](images/payment_analysis.png)
+![Payment Analysis](images/payment_pivot.png)
 
 ---
 
