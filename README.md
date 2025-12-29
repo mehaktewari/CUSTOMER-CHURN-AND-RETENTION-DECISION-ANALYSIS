@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis Dashboard
+# 📊 Customer Churn & Retention Decision Analysis Dashboard
 
 ## 🔍 Project Overview
 This project focuses on analyzing **customer churn behavior** using **Microsoft Excel**.  
