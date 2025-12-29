@@ -1,0 +1,20 @@
+1. KPI Tiles
+   - Total Customers
+   - Overall Churn Rate
+
+2. Bar Chart
+   - Churn Rate by Contract Type
+
+3. Bar Chart
+   - Churn Rate by Tenure Segment
+
+4. Bar Chart
+   - Churn Rate by Payment Method
+
+5. Customer Profile Table
+   - High-risk customers (New + Month-to-month)
+
+Design Notes:
+- Executive-friendly
+- Clear labels
+- No clutter
